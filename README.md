@@ -1,2 +1,2 @@
 # demoprogram
-author:abhishek kumar
+author:abhishek kumar singh
